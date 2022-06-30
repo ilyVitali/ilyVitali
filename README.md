@@ -10,5 +10,5 @@
   <img src="https://discord.c99.nl/widget/theme-3/939665893124878337.png"/>
 </p>
 <p align="center">
-Developer | Java, Python, JavaScript, Skript.
+Developer | Python, JavaScript, Skript.
 <p align="center">
