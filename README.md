@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=r-venege&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/939665893124878337.png"/>
+  <img src="https://discord.c99.nl/widget/theme-3/939665893124878337.png"/>
 </p>
 <p align="center">
 Developer | Java, Python, JavaScript, Skript.
