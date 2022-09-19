@@ -5,10 +5,6 @@
     flock
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=r-venege&color=grey">
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/939665893124878337.png"/>
-</p>
 <p align="center">
-Developer | Python, JavaScript, Skript.
+Developer | Python, JavaScript, HTML, CSS.
 <p align="center">
