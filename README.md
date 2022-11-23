@@ -4,7 +4,7 @@
 <p align="center">
     flock
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=ilyvitali&color=grey">
+<img src="[https://komarev.com/ghpvc/?username=ilyvitali&color=grey](https://gpvc.arturio.dev/ilyvitali)">
 <p align="center">
 Developer | Python, JavaScript, HTML, CSS.
 <p align="center">
