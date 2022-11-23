@@ -6,6 +6,5 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=r-venege&color=grey">
 <p align="center">
-![](https://komarev.com/ghpvc/?username=ilyvitali)
 Developer | Python, JavaScript, HTML, CSS.
 <p align="center">
