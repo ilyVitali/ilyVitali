@@ -5,6 +5,3 @@
     flock
 <p align="center">  
 <img src="https://gpvc.arturio.dev/ilyvitali">
-<p align="center">
-Developer | Python, JavaScript, HTML, CSS.
-<p align="center">
